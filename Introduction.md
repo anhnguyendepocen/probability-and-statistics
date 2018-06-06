@@ -9,7 +9,7 @@ Statistics is a process in which we:
 + Interpret Data
 
 Process of statistics starts when we identify a group of objects we want to study which is called the **Population**. For example
-+ Public opinion oh death penalty
++ Public opinion on death penalty
 + How population of mice react to a certain chemical
 + Average price of an apartment with 1 bedroom in Mumbai  
 
