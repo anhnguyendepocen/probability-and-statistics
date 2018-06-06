@@ -24,11 +24,11 @@ Since, for practical reasons, we examing only a subgroup of population instead o
 
 Once data is collected, we need to summarize it in a meaningful way. This 2<sup>nd</sup> step is called **Exploratory Data Analysis**.
 
-Now, once we are done with smapling data and summarizing it, we need to study it as we want to be able to draw some conculsions about the population from the sample. But before we can start with this, we need to check how the sample is different from the population as whole. To examine this, we use **Probability**.
+Now, once we are done with sampling data and summarizing it, we need to study it as we want to be able to draw some conculsions about the population from the sample. But before we can start with this, we need to check how the sample is different from the population as whole. To examine this, we use **Probability**.
 
 In essence, probability is the "machinery" that allows us to draw conclusion about the population from sampled data
 
-Finally, we can use what we've discovered to draw conclusions. This final step is called **Infernece**.
+Finally, we can use what we've discovered to draw conclusions. This final step is called **Inference**.
 
 ![full](https://lagunita.stanford.edu/assets/courseware/v1/f064943ed60a789d4a54859bb77a00a8/asset-v1:OLI+ProbStat+Open_Jan2017+type@asset+block/intro_stats_online_inference.png)
 
